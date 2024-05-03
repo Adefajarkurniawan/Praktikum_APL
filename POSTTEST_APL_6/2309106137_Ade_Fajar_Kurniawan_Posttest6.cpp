@@ -268,8 +268,6 @@ void menu() {
                     menu();
                 }
                 break;
-
-                break;
             case '3':
                 updateJadwal(&jadwalDokterList[jumlahJadwal]);
                 break;
